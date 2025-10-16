@@ -29,7 +29,8 @@ Thuc Hanh Buoi 5 Nhom 1
 
 Các nội dung sau trong repository này được cấp phép theo [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/):
 
-`anh2_1.png`: Hình ảnh minh họa nhiệm vụ 1.2.2
+`anh2_1.png`: Hình ảnh minh họa nhiệm vụ 2_1
+
 `video2_2.mp4`: Video minh họa hoạt động nhóm
 ### ✅ Quyền sử dụng
 
