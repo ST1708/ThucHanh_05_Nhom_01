@@ -42,6 +42,7 @@ Bạn được phép:
   > "Ảnh và video bởi Nhóm 01 - Thực hành 05, cấp phép CC BY 4.0"
   > 
 **Tác giả**: Nhóm 01
+
 **Liên kết ảnh**: [anh2_1.png](https://github.com/ST1708/ThucHanh_05_Nhom_01/blob/868a8134c31ce874166df48d08cb719163f0e8c5/anh2_1.png)  
 **Liên kết video**: [video2_2.mp4](https://github.com/ST1708/ThucHanh_05_Nhom_01/blob/868a8134c31ce874166df48d08cb719163f0e8c5/video2_2.mp4)
 
