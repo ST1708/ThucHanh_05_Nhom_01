@@ -20,6 +20,8 @@ Thuc Hanh Buoi 5 Nhom 1
                   video2_2.mp4
 
                   html3_1.html
+
+                  minrosoftTeam.png
                   
      -Công cụ AI sử dụng
      
