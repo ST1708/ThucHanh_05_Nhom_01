@@ -18,6 +18,8 @@ Thuc Hanh Buoi 5 Nhom 1
                   buoi5_baithuchanh1_2.pdf
                   
                   video2_2.mp4
+
+                  html3_1.html
      -Công cụ AI sử dụng
      
       *Canva AI**: Hỗ trợ thiết kế hình ảnh minh họa cho nhiệm vụ 2.1
